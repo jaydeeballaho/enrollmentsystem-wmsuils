@@ -1,0 +1,104 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+SRS
+</name>
+</assembly>
+<members>
+<member name="T:SRS.Grades.GradesDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SRS.Grades.GradesRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SRS.Grades.GradesRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SRS.Grades">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:SRS.TeacherSched.TeacherSchedDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SRS.TeacherSched.TeacherSchedRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SRS.TeacherSched.TeacherSchedRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SRS.TeacherSched">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="P:SRS.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:SRS.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:SRS.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="T:SRS.ClassList.ClassListDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SRS.ClassList.ClassListRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SRS.ClassList.ClassListRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SRS.ClassList">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:SRS.ClassSched.ClassSchedDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SRS.ClassSched.ClassSchedRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SRS.ClassSched.ClassSchedRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SRS.ClassSched">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:SRS.Asses.AssesDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SRS.Asses.AssesRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SRS.Asses.AssesRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SRS.Asses">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+</members>
+</doc>

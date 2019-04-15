@@ -1,0 +1,491 @@
+C:\Users\jaynius\Desktop\SRS - Latest\SRS\bin\Debug\SRS.exe.config
+C:\Users\jaynius\Desktop\SRS - Latest\SRS\bin\Debug\SRS.exe
+C:\Users\jaynius\Desktop\SRS - Latest\SRS\bin\Debug\SRS.pdb
+C:\Users\jaynius\Desktop\SRS - Latest\SRS\bin\Debug\SRS.xml
+C:\Users\jaynius\Desktop\SRS - Latest\SRS\bin\Debug\DirectShowLib-2005.dll
+C:\Users\jaynius\Desktop\SRS - Latest\SRS\bin\Debug\Emgu.CV.World.dll
+C:\Users\jaynius\Desktop\SRS - Latest\SRS\bin\Debug\MetroFramework.Design.dll
+C:\Users\jaynius\Desktop\SRS - Latest\SRS\bin\Debug\MetroFramework.dll
+C:\Users\jaynius\Desktop\SRS - Latest\SRS\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\jaynius\Desktop\SRS - Latest\SRS\bin\Debug\Emgu.CV.World.xml
+C:\Users\jaynius\Desktop\SRS - Latest\SRS\obj\Debug\SRS.Resources.resources
+C:\Users\jaynius\Desktop\SRS - Latest\SRS\obj\Debug\SRS.frmEditStudent.resources
+C:\Users\jaynius\Desktop\SRS - Latest\SRS\obj\Debug\SRS.ucConnection.resources
+C:\Users\jaynius\Desktop\SRS - Latest\SRS\obj\Debug\SRS.frmHome.resources
+C:\Users\jaynius\Desktop\SRS - Latest\SRS\obj\Debug\SRS.ucLogin.resources
+C:\Users\jaynius\Desktop\SRS - Latest\SRS\obj\Debug\SRS.ucHome.resources
+C:\Users\jaynius\Desktop\SRS - Latest\SRS\obj\Debug\SRS.frmError.resources
+C:\Users\jaynius\Desktop\SRS - Latest\SRS\obj\Debug\SRS.frmInfo.resources
+C:\Users\jaynius\Desktop\SRS - Latest\SRS\obj\Debug\SRS.frmMsg.resources
+C:\Users\jaynius\Desktop\SRS - Latest\SRS\obj\Debug\SRS.frmQuestion.resources
+C:\Users\jaynius\Desktop\SRS - Latest\SRS\obj\Debug\SRS.frmWarning.resources
+C:\Users\jaynius\Desktop\SRS - Latest\SRS\obj\Debug\SRS.frmBrowseLocal.resources
+C:\Users\jaynius\Desktop\SRS - Latest\SRS\obj\Debug\SRS.frmAddUnivFee.resources
+C:\Users\jaynius\Desktop\SRS - Latest\SRS\obj\Debug\SRS.frmBrowseUniv.resources
+C:\Users\jaynius\Desktop\SRS - Latest\SRS\obj\Debug\SRS.frmCopyFees.resources
+C:\Users\jaynius\Desktop\SRS - Latest\SRS\obj\Debug\SRS.frmEditLocalFee.resources
+C:\Users\jaynius\Desktop\SRS - Latest\SRS\obj\Debug\SRS.frmEditUnivFee.resources
+C:\Users\jaynius\Desktop\SRS - Latest\SRS\obj\Debug\SRS.frmManageFees.resources
+C:\Users\jaynius\Desktop\SRS - Latest\SRS\obj\Debug\SRS.ucManageFees.resources
+C:\Users\jaynius\Desktop\SRS - Latest\SRS\obj\Debug\SRS.frmAddGradeLevel.resources
+C:\Users\jaynius\Desktop\SRS - Latest\SRS\obj\Debug\SRS.frmEditGradeLevel.resources
+C:\Users\jaynius\Desktop\SRS - Latest\SRS\obj\Debug\SRS.ucGradeLevel.resources
+C:\Users\jaynius\Desktop\SRS - Latest\SRS\obj\Debug\SRS.frmPassword.resources
+C:\Users\jaynius\Desktop\SRS - Latest\SRS\obj\Debug\SRS.frmAddStudent.resources
+C:\Users\jaynius\Desktop\SRS - Latest\SRS\obj\Debug\SRS.frmAddLocalFee.resources
+C:\Users\jaynius\Desktop\SRS - Latest\SRS\obj\Debug\SRS.ucBase.resources
+C:\Users\jaynius\Desktop\SRS - Latest\SRS\obj\Debug\SRS.frmAddSchoolYear.resources
+C:\Users\jaynius\Desktop\SRS - Latest\SRS\obj\Debug\SRS.frmEditSchoolYear.resources
+C:\Users\jaynius\Desktop\SRS - Latest\SRS\obj\Debug\SRS.frmManageStud.resources
+C:\Users\jaynius\Desktop\SRS - Latest\SRS\obj\Debug\SRS.frmPhoto.resources
+C:\Users\jaynius\Desktop\SRS - Latest\SRS\obj\Debug\SRS.ucSchoolYear.resources
+C:\Users\jaynius\Desktop\SRS - Latest\SRS\obj\Debug\SRS.frmAddUser.resources
+C:\Users\jaynius\Desktop\SRS - Latest\SRS\obj\Debug\SRS.frmEditUser.resources
+C:\Users\jaynius\Desktop\SRS - Latest\SRS\obj\Debug\SRS.ucAccount.resources
+C:\Users\jaynius\Desktop\SRS - Latest\SRS\obj\Debug\SRS.vbproj.GenerateResource.Cache
+C:\Users\jaynius\Desktop\SRS - Latest\SRS\obj\Debug\SRS.exe
+C:\Users\jaynius\Desktop\SRS - Latest\SRS\obj\Debug\SRS.xml
+C:\Users\jaynius\Desktop\SRS - Latest\SRS\obj\Debug\SRS.pdb
+C:\Users\jaynius\Desktop\SRS - Latest\SRS\obj\Debug\SRS.frmAssessment.resources
+C:\Users\jaynius\Desktop\SRS - Latest\SRS\obj\Debug\SRS.frmSearchStudent.resources
+C:\Users\jaynius\Desktop\SRS - Latest\SRS\obj\Debug\SRS.ucReports.resources
+C:\Users\jaynius\Desktop\SRS - Latest\SRS\obj\Debug\SRS.frmFirstTime.resources
+C:\Users\jaynius\Desktop\SRS - Latest\SRS\obj\Debug\SRS.frmPayment.resources
+C:\Users\jaynius\Desktop\SRS - Latest\SRS\obj\Debug\SRS.frmAccount.resources
+C:\Users\jaynius\Desktop\SRS - Latest\SRS\obj\Debug\SRS.ucEnrollment.resources
+C:\Users\jaynius\Desktop\SRS - Latest\SRS\obj\Debug\SRS.AddPayment.resources
+C:\Users\jaynius\Desktop\SRS - Latest\SRS\obj\Debug\SRS.frmAddEnrollment.resources
+C:\Users\jaynius\Desktop\SRS - Latest\SRS\obj\Debug\SRS.frmEditEnrollment.resources
+C:\Users\jaynius\Desktop\SRS - Latest\SRS\obj\Debug\SRS.frmOpenClose.resources
+C:\Users\jaynius\Desktop\SRS - Latest\SRS\obj\Debug\SRS.EditPayment.resources
+C:\Users\jaynius\Desktop\SRS - Latest\SRS\obj\Debug\SRS.PayAssessment.resources
+C:\Users\jaynius\Desktop\SRS - Latest\SRS\obj\Debug\SRS.frmShowAccounts.resources
+C:\Users\jaynius\Desktop\SRS - Latest\SRS\obj\Debug\SRS.frmViewAccounts.resources
+C:\Users\jaynius\Desktop\SRS - Latest\SRS\bin\Debug\SRS.exe.manifest
+C:\Users\jaynius\Desktop\SRS - Latest\SRS\bin\Debug\SRS.application
+C:\Users\jaynius\Desktop\SRS - Latest\SRS\obj\Debug\SRS.exe.manifest
+C:\Users\jaynius\Desktop\SRS - Latest\SRS\obj\Debug\SRS.application
+C:\Users\jaynius\Desktop\SRS - Latest\SRS\obj\Debug\SRS.ucSubject.resources
+C:\Users\jaynius\Desktop\SRS - Latest\SRS\obj\Debug\SRS.frmAddSubject.resources
+C:\Users\jaynius\Desktop\SRS - Latest\SRS\obj\Debug\SRS.frmEditSubject.resources
+C:\Users\jaynius\Desktop\SRS - Latest\SRS\obj\Debug\SRS.frmGrades.resources
+C:\Users\jaynius\Desktop\SRS - Latest\SRS\obj\Debug\SRS.frmAddSection.resources
+C:\Users\jaynius\Desktop\SRS - Latest\SRS\obj\Debug\SRS.frmEditSection.resources
+C:\Users\jaynius\Desktop\SRS - Latest\SRS\obj\Debug\SRS.frmSection.resources
+C:\Users\jaynius\Desktop\SRS - Latest\SRS\obj\Debug\SRS.frmGradeRankings.resources
+C:\Users\jaynius\Desktop\SRS - Latest\SRS\obj\Debug\SRS.AddRoom.resources
+C:\Users\jaynius\Desktop\SRS - Latest\SRS\obj\Debug\SRS.EditRoom.resources
+C:\Users\jaynius\Desktop\SRS - Latest\SRS\obj\Debug\SRS.ucRoom.resources
+C:\Users\jaynius\Desktop\SRS - Latest\SRS\obj\Debug\SRS.vbprojResolveAssemblyReference.cache
+C:\Users\jaynius\Desktop\SRS - Latest\SRS\obj\Debug\SRS.frmAssignSched.resources
+C:\Users\jaynius\Desktop\SRS - Latest\SRS\obj\Debug\SRS.frmSchedule.resources
+C:\Users\jaynius\Desktop\SRS - Latest\SRS\obj\Debug\SRS.frmViewSchedule.resources
+C:\Users\jaynius\Desktop\SRS - Latest\SRS\obj\Debug\SRS.frmSearchTeacher.resources
+C:\Users\jaynius\Desktop\SRS - Latest\SRS\obj\Debug\SRS.frmTeacherForm.resources
+C:\Users\jaynius\Desktop\SRS - Latest\SRS\obj\Debug\SRS.frmViewTeacher.resources
+C:\Users\jaynius\Desktop\SRS - Latest\SRS\obj\Debug\SRS.frmPrintReport.resources
+C:\Users\USER\Desktop\try lang 2\SRS - Latest\SRS\bin\Debug\SRS.exe.config
+C:\Users\USER\Desktop\try lang 2\SRS - Latest\SRS\bin\Debug\SRS.exe.manifest
+C:\Users\USER\Desktop\try lang 2\SRS - Latest\SRS\bin\Debug\SRS.application
+C:\Users\USER\Desktop\try lang 2\SRS - Latest\SRS\bin\Debug\SRS.exe
+C:\Users\USER\Desktop\try lang 2\SRS - Latest\SRS\bin\Debug\SRS.pdb
+C:\Users\USER\Desktop\try lang 2\SRS - Latest\SRS\bin\Debug\SRS.xml
+C:\Users\USER\Desktop\try lang 2\SRS - Latest\SRS\obj\Debug\SRS.vbprojResolveAssemblyReference.cache
+C:\Users\USER\Desktop\try lang 2\SRS - Latest\SRS\obj\Debug\SRS.frmGradeRankings.resources
+C:\Users\USER\Desktop\try lang 2\SRS - Latest\SRS\obj\Debug\SRS.AddRoom.resources
+C:\Users\USER\Desktop\try lang 2\SRS - Latest\SRS\obj\Debug\SRS.EditRoom.resources
+C:\Users\USER\Desktop\try lang 2\SRS - Latest\SRS\obj\Debug\SRS.ucRoom.resources
+C:\Users\USER\Desktop\try lang 2\SRS - Latest\SRS\obj\Debug\SRS.frmAddSection.resources
+C:\Users\USER\Desktop\try lang 2\SRS - Latest\SRS\obj\Debug\SRS.frmEditSection.resources
+C:\Users\USER\Desktop\try lang 2\SRS - Latest\SRS\obj\Debug\SRS.frmSection.resources
+C:\Users\USER\Desktop\try lang 2\SRS - Latest\SRS\obj\Debug\SRS.Resources.resources
+C:\Users\USER\Desktop\try lang 2\SRS - Latest\SRS\obj\Debug\SRS.frmAddEnrollment.resources
+C:\Users\USER\Desktop\try lang 2\SRS - Latest\SRS\obj\Debug\SRS.frmAssessment.resources
+C:\Users\USER\Desktop\try lang 2\SRS - Latest\SRS\obj\Debug\SRS.frmEditEnrollment.resources
+C:\Users\USER\Desktop\try lang 2\SRS - Latest\SRS\obj\Debug\SRS.ucEnrollment.resources
+C:\Users\USER\Desktop\try lang 2\SRS - Latest\SRS\obj\Debug\SRS.frmGrades.resources
+C:\Users\USER\Desktop\try lang 2\SRS - Latest\SRS\obj\Debug\SRS.frmAddSubject.resources
+C:\Users\USER\Desktop\try lang 2\SRS - Latest\SRS\obj\Debug\SRS.frmEditSubject.resources
+C:\Users\USER\Desktop\try lang 2\SRS - Latest\SRS\obj\Debug\SRS.ucSubject.resources
+C:\Users\USER\Desktop\try lang 2\SRS - Latest\SRS\obj\Debug\SRS.frmPrintReport.resources
+C:\Users\USER\Desktop\try lang 2\SRS - Latest\SRS\obj\Debug\SRS.frmAssignSched.resources
+C:\Users\USER\Desktop\try lang 2\SRS - Latest\SRS\obj\Debug\SRS.frmSchedule.resources
+C:\Users\USER\Desktop\try lang 2\SRS - Latest\SRS\obj\Debug\SRS.frmViewSchedule.resources
+C:\Users\USER\Desktop\try lang 2\SRS - Latest\SRS\obj\Debug\SRS.frmSearchTeacher.resources
+C:\Users\USER\Desktop\try lang 2\SRS - Latest\SRS\obj\Debug\SRS.frmTeacherForm.resources
+C:\Users\USER\Desktop\try lang 2\SRS - Latest\SRS\obj\Debug\SRS.frmViewTeacher.resources
+C:\Users\USER\Desktop\try lang 2\SRS - Latest\SRS\obj\Debug\SRS.AddPayment.resources
+C:\Users\USER\Desktop\try lang 2\SRS - Latest\SRS\obj\Debug\SRS.EditPayment.resources
+C:\Users\USER\Desktop\try lang 2\SRS - Latest\SRS\obj\Debug\SRS.frmShowAccounts.resources
+C:\Users\USER\Desktop\try lang 2\SRS - Latest\SRS\obj\Debug\SRS.frmViewAccounts.resources
+C:\Users\USER\Desktop\try lang 2\SRS - Latest\SRS\obj\Debug\SRS.PayAssessment.resources
+C:\Users\USER\Desktop\try lang 2\SRS - Latest\SRS\obj\Debug\SRS.frmPayment.resources
+C:\Users\USER\Desktop\try lang 2\SRS - Latest\SRS\obj\Debug\SRS.frmSearchStudent.resources
+C:\Users\USER\Desktop\try lang 2\SRS - Latest\SRS\obj\Debug\SRS.frmEditStudent.resources
+C:\Users\USER\Desktop\try lang 2\SRS - Latest\SRS\obj\Debug\SRS.ucReports.resources
+C:\Users\USER\Desktop\try lang 2\SRS - Latest\SRS\obj\Debug\SRS.frmFirstTime.resources
+C:\Users\USER\Desktop\try lang 2\SRS - Latest\SRS\obj\Debug\SRS.ucConnection.resources
+C:\Users\USER\Desktop\try lang 2\SRS - Latest\SRS\obj\Debug\SRS.frmHome.resources
+C:\Users\USER\Desktop\try lang 2\SRS - Latest\SRS\obj\Debug\SRS.ucLogin.resources
+C:\Users\USER\Desktop\try lang 2\SRS - Latest\SRS\obj\Debug\SRS.ucHome.resources
+C:\Users\USER\Desktop\try lang 2\SRS - Latest\SRS\obj\Debug\SRS.frmError.resources
+C:\Users\USER\Desktop\try lang 2\SRS - Latest\SRS\obj\Debug\SRS.frmInfo.resources
+C:\Users\USER\Desktop\try lang 2\SRS - Latest\SRS\obj\Debug\SRS.frmMsg.resources
+C:\Users\USER\Desktop\try lang 2\SRS - Latest\SRS\obj\Debug\SRS.frmQuestion.resources
+C:\Users\USER\Desktop\try lang 2\SRS - Latest\SRS\obj\Debug\SRS.frmWarning.resources
+C:\Users\USER\Desktop\try lang 2\SRS - Latest\SRS\obj\Debug\SRS.frmBrowseLocal.resources
+C:\Users\USER\Desktop\try lang 2\SRS - Latest\SRS\obj\Debug\SRS.frmAddUnivFee.resources
+C:\Users\USER\Desktop\try lang 2\SRS - Latest\SRS\obj\Debug\SRS.frmBrowseUniv.resources
+C:\Users\USER\Desktop\try lang 2\SRS - Latest\SRS\obj\Debug\SRS.frmCopyFees.resources
+C:\Users\USER\Desktop\try lang 2\SRS - Latest\SRS\obj\Debug\SRS.frmEditLocalFee.resources
+C:\Users\USER\Desktop\try lang 2\SRS - Latest\SRS\obj\Debug\SRS.frmEditUnivFee.resources
+C:\Users\USER\Desktop\try lang 2\SRS - Latest\SRS\obj\Debug\SRS.frmManageFees.resources
+C:\Users\USER\Desktop\try lang 2\SRS - Latest\SRS\obj\Debug\SRS.ucManageFees.resources
+C:\Users\USER\Desktop\try lang 2\SRS - Latest\SRS\obj\Debug\SRS.frmAddGradeLevel.resources
+C:\Users\USER\Desktop\try lang 2\SRS - Latest\SRS\obj\Debug\SRS.frmEditGradeLevel.resources
+C:\Users\USER\Desktop\try lang 2\SRS - Latest\SRS\obj\Debug\SRS.ucGradeLevel.resources
+C:\Users\USER\Desktop\try lang 2\SRS - Latest\SRS\obj\Debug\SRS.frmOpenClose.resources
+C:\Users\USER\Desktop\try lang 2\SRS - Latest\SRS\obj\Debug\SRS.frmPassword.resources
+C:\Users\USER\Desktop\try lang 2\SRS - Latest\SRS\obj\Debug\SRS.frmAddStudent.resources
+C:\Users\USER\Desktop\try lang 2\SRS - Latest\SRS\obj\Debug\SRS.frmAddLocalFee.resources
+C:\Users\USER\Desktop\try lang 2\SRS - Latest\SRS\obj\Debug\SRS.ucBase.resources
+C:\Users\USER\Desktop\try lang 2\SRS - Latest\SRS\obj\Debug\SRS.frmAddSchoolYear.resources
+C:\Users\USER\Desktop\try lang 2\SRS - Latest\SRS\obj\Debug\SRS.frmEditSchoolYear.resources
+C:\Users\USER\Desktop\try lang 2\SRS - Latest\SRS\obj\Debug\SRS.frmManageStud.resources
+C:\Users\USER\Desktop\try lang 2\SRS - Latest\SRS\obj\Debug\SRS.frmPhoto.resources
+C:\Users\USER\Desktop\try lang 2\SRS - Latest\SRS\obj\Debug\SRS.ucSchoolYear.resources
+C:\Users\USER\Desktop\try lang 2\SRS - Latest\SRS\obj\Debug\SRS.frmAccount.resources
+C:\Users\USER\Desktop\try lang 2\SRS - Latest\SRS\obj\Debug\SRS.frmAddUser.resources
+C:\Users\USER\Desktop\try lang 2\SRS - Latest\SRS\obj\Debug\SRS.frmEditUser.resources
+C:\Users\USER\Desktop\try lang 2\SRS - Latest\SRS\obj\Debug\SRS.ucAccount.resources
+C:\Users\USER\Desktop\try lang 2\SRS - Latest\SRS\obj\Debug\SRS.vbproj.GenerateResource.Cache
+C:\Users\USER\Desktop\try lang 2\SRS - Latest\SRS\obj\Debug\SRS.exe.manifest
+C:\Users\USER\Desktop\try lang 2\SRS - Latest\SRS\obj\Debug\SRS.application
+C:\Users\USER\Desktop\try lang 2\SRS - Latest\SRS\obj\Debug\SRS.exe
+C:\Users\USER\Desktop\try lang 2\SRS - Latest\SRS\obj\Debug\SRS.xml
+C:\Users\USER\Desktop\try lang 2\SRS - Latest\SRS\obj\Debug\SRS.pdb
+C:\Users\jaydie\Desktop\try lang 2\SRS - Latest\SRS\bin\Debug\SRS.exe.config
+C:\Users\jaydie\Desktop\try lang 2\SRS - Latest\SRS\bin\Debug\SRS.exe.manifest
+C:\Users\jaydie\Desktop\try lang 2\SRS - Latest\SRS\bin\Debug\SRS.application
+C:\Users\jaydie\Desktop\try lang 2\SRS - Latest\SRS\bin\Debug\SRS.exe
+C:\Users\jaydie\Desktop\try lang 2\SRS - Latest\SRS\bin\Debug\SRS.pdb
+C:\Users\jaydie\Desktop\try lang 2\SRS - Latest\SRS\bin\Debug\SRS.xml
+C:\Users\jaydie\Desktop\try lang 2\SRS - Latest\SRS\obj\Debug\SRS.vbprojResolveAssemblyReference.cache
+C:\Users\jaydie\Desktop\try lang 2\SRS - Latest\SRS\obj\Debug\SRS.frmGradeRankings.resources
+C:\Users\jaydie\Desktop\try lang 2\SRS - Latest\SRS\obj\Debug\SRS.AddRoom.resources
+C:\Users\jaydie\Desktop\try lang 2\SRS - Latest\SRS\obj\Debug\SRS.EditRoom.resources
+C:\Users\jaydie\Desktop\try lang 2\SRS - Latest\SRS\obj\Debug\SRS.ucRoom.resources
+C:\Users\jaydie\Desktop\try lang 2\SRS - Latest\SRS\obj\Debug\SRS.frmAddSection.resources
+C:\Users\jaydie\Desktop\try lang 2\SRS - Latest\SRS\obj\Debug\SRS.frmEditSection.resources
+C:\Users\jaydie\Desktop\try lang 2\SRS - Latest\SRS\obj\Debug\SRS.frmSection.resources
+C:\Users\jaydie\Desktop\try lang 2\SRS - Latest\SRS\obj\Debug\SRS.Resources.resources
+C:\Users\jaydie\Desktop\try lang 2\SRS - Latest\SRS\obj\Debug\SRS.frmAddEnrollment.resources
+C:\Users\jaydie\Desktop\try lang 2\SRS - Latest\SRS\obj\Debug\SRS.frmAssessment.resources
+C:\Users\jaydie\Desktop\try lang 2\SRS - Latest\SRS\obj\Debug\SRS.frmEditEnrollment.resources
+C:\Users\jaydie\Desktop\try lang 2\SRS - Latest\SRS\obj\Debug\SRS.ucEnrollment.resources
+C:\Users\jaydie\Desktop\try lang 2\SRS - Latest\SRS\obj\Debug\SRS.frmGrades.resources
+C:\Users\jaydie\Desktop\try lang 2\SRS - Latest\SRS\obj\Debug\SRS.frmAddSubject.resources
+C:\Users\jaydie\Desktop\try lang 2\SRS - Latest\SRS\obj\Debug\SRS.frmEditSubject.resources
+C:\Users\jaydie\Desktop\try lang 2\SRS - Latest\SRS\obj\Debug\SRS.ucSubject.resources
+C:\Users\jaydie\Desktop\try lang 2\SRS - Latest\SRS\obj\Debug\SRS.frmPrintReport.resources
+C:\Users\jaydie\Desktop\try lang 2\SRS - Latest\SRS\obj\Debug\SRS.frmAssignSched.resources
+C:\Users\jaydie\Desktop\try lang 2\SRS - Latest\SRS\obj\Debug\SRS.frmSchedule.resources
+C:\Users\jaydie\Desktop\try lang 2\SRS - Latest\SRS\obj\Debug\SRS.frmViewSchedule.resources
+C:\Users\jaydie\Desktop\try lang 2\SRS - Latest\SRS\obj\Debug\SRS.frmSearchTeacher.resources
+C:\Users\jaydie\Desktop\try lang 2\SRS - Latest\SRS\obj\Debug\SRS.frmTeacherForm.resources
+C:\Users\jaydie\Desktop\try lang 2\SRS - Latest\SRS\obj\Debug\SRS.frmViewTeacher.resources
+C:\Users\jaydie\Desktop\try lang 2\SRS - Latest\SRS\obj\Debug\SRS.AddPayment.resources
+C:\Users\jaydie\Desktop\try lang 2\SRS - Latest\SRS\obj\Debug\SRS.EditPayment.resources
+C:\Users\jaydie\Desktop\try lang 2\SRS - Latest\SRS\obj\Debug\SRS.frmShowAccounts.resources
+C:\Users\jaydie\Desktop\try lang 2\SRS - Latest\SRS\obj\Debug\SRS.frmViewAccounts.resources
+C:\Users\jaydie\Desktop\try lang 2\SRS - Latest\SRS\obj\Debug\SRS.PayAssessment.resources
+C:\Users\jaydie\Desktop\try lang 2\SRS - Latest\SRS\obj\Debug\SRS.frmPayment.resources
+C:\Users\jaydie\Desktop\try lang 2\SRS - Latest\SRS\obj\Debug\SRS.frmSearchStudent.resources
+C:\Users\jaydie\Desktop\try lang 2\SRS - Latest\SRS\obj\Debug\SRS.frmEditStudent.resources
+C:\Users\jaydie\Desktop\try lang 2\SRS - Latest\SRS\obj\Debug\SRS.ucReports.resources
+C:\Users\jaydie\Desktop\try lang 2\SRS - Latest\SRS\obj\Debug\SRS.frmFirstTime.resources
+C:\Users\jaydie\Desktop\try lang 2\SRS - Latest\SRS\obj\Debug\SRS.ucConnection.resources
+C:\Users\jaydie\Desktop\try lang 2\SRS - Latest\SRS\obj\Debug\SRS.frmHome.resources
+C:\Users\jaydie\Desktop\try lang 2\SRS - Latest\SRS\obj\Debug\SRS.ucLogin.resources
+C:\Users\jaydie\Desktop\try lang 2\SRS - Latest\SRS\obj\Debug\SRS.ucHome.resources
+C:\Users\jaydie\Desktop\try lang 2\SRS - Latest\SRS\obj\Debug\SRS.frmError.resources
+C:\Users\jaydie\Desktop\try lang 2\SRS - Latest\SRS\obj\Debug\SRS.frmInfo.resources
+C:\Users\jaydie\Desktop\try lang 2\SRS - Latest\SRS\obj\Debug\SRS.frmMsg.resources
+C:\Users\jaydie\Desktop\try lang 2\SRS - Latest\SRS\obj\Debug\SRS.frmQuestion.resources
+C:\Users\jaydie\Desktop\try lang 2\SRS - Latest\SRS\obj\Debug\SRS.frmWarning.resources
+C:\Users\jaydie\Desktop\try lang 2\SRS - Latest\SRS\obj\Debug\SRS.frmBrowseLocal.resources
+C:\Users\jaydie\Desktop\try lang 2\SRS - Latest\SRS\obj\Debug\SRS.frmAddUnivFee.resources
+C:\Users\jaydie\Desktop\try lang 2\SRS - Latest\SRS\obj\Debug\SRS.frmBrowseUniv.resources
+C:\Users\jaydie\Desktop\try lang 2\SRS - Latest\SRS\obj\Debug\SRS.frmCopyFees.resources
+C:\Users\jaydie\Desktop\try lang 2\SRS - Latest\SRS\obj\Debug\SRS.frmEditLocalFee.resources
+C:\Users\jaydie\Desktop\try lang 2\SRS - Latest\SRS\obj\Debug\SRS.frmEditUnivFee.resources
+C:\Users\jaydie\Desktop\try lang 2\SRS - Latest\SRS\obj\Debug\SRS.frmManageFees.resources
+C:\Users\jaydie\Desktop\try lang 2\SRS - Latest\SRS\obj\Debug\SRS.ucManageFees.resources
+C:\Users\jaydie\Desktop\try lang 2\SRS - Latest\SRS\obj\Debug\SRS.frmAddGradeLevel.resources
+C:\Users\jaydie\Desktop\try lang 2\SRS - Latest\SRS\obj\Debug\SRS.frmEditGradeLevel.resources
+C:\Users\jaydie\Desktop\try lang 2\SRS - Latest\SRS\obj\Debug\SRS.ucGradeLevel.resources
+C:\Users\jaydie\Desktop\try lang 2\SRS - Latest\SRS\obj\Debug\SRS.frmOpenClose.resources
+C:\Users\jaydie\Desktop\try lang 2\SRS - Latest\SRS\obj\Debug\SRS.frmPassword.resources
+C:\Users\jaydie\Desktop\try lang 2\SRS - Latest\SRS\obj\Debug\SRS.frmAddStudent.resources
+C:\Users\jaydie\Desktop\try lang 2\SRS - Latest\SRS\obj\Debug\SRS.frmAddLocalFee.resources
+C:\Users\jaydie\Desktop\try lang 2\SRS - Latest\SRS\obj\Debug\SRS.ucBase.resources
+C:\Users\jaydie\Desktop\try lang 2\SRS - Latest\SRS\obj\Debug\SRS.frmAddSchoolYear.resources
+C:\Users\jaydie\Desktop\try lang 2\SRS - Latest\SRS\obj\Debug\SRS.frmEditSchoolYear.resources
+C:\Users\jaydie\Desktop\try lang 2\SRS - Latest\SRS\obj\Debug\SRS.frmManageStud.resources
+C:\Users\jaydie\Desktop\try lang 2\SRS - Latest\SRS\obj\Debug\SRS.frmPhoto.resources
+C:\Users\jaydie\Desktop\try lang 2\SRS - Latest\SRS\obj\Debug\SRS.ucSchoolYear.resources
+C:\Users\jaydie\Desktop\try lang 2\SRS - Latest\SRS\obj\Debug\SRS.frmAccount.resources
+C:\Users\jaydie\Desktop\try lang 2\SRS - Latest\SRS\obj\Debug\SRS.frmAddUser.resources
+C:\Users\jaydie\Desktop\try lang 2\SRS - Latest\SRS\obj\Debug\SRS.frmEditUser.resources
+C:\Users\jaydie\Desktop\try lang 2\SRS - Latest\SRS\obj\Debug\SRS.ucAccount.resources
+C:\Users\jaydie\Desktop\try lang 2\SRS - Latest\SRS\obj\Debug\SRS.vbproj.GenerateResource.Cache
+C:\Users\jaydie\Desktop\try lang 2\SRS - Latest\SRS\obj\Debug\SRS.exe.manifest
+C:\Users\jaydie\Desktop\try lang 2\SRS - Latest\SRS\obj\Debug\SRS.application
+C:\Users\jaydie\Desktop\try lang 2\SRS - Latest\SRS\obj\Debug\SRS.exe
+C:\Users\jaydie\Desktop\try lang 2\SRS - Latest\SRS\obj\Debug\SRS.xml
+C:\Users\jaydie\Desktop\try lang 2\SRS - Latest\SRS\obj\Debug\SRS.pdb
+C:\Users\jaydie\Desktop\SRS - Latest - Copy\SRS\bin\Debug\SRS.exe.config
+C:\Users\jaydie\Desktop\SRS - Latest - Copy\SRS\obj\Debug\SRS.exe
+C:\Users\jaydie\Desktop\SRS - Latest - Copy\SRS\obj\Debug\SRS.xml
+C:\Users\jaydie\Desktop\SRS - Latest - Copy\SRS\obj\Debug\SRS.pdb
+C:\Users\jaydie\Desktop\SRS - Latest - Copy\SRS\obj\Debug\SRS.vbprojResolveAssemblyReference.cache
+C:\Users\jaydie\Desktop\SRS - Latest - Copy\SRS\obj\Debug\SRS.frmGradeRankings.resources
+C:\Users\jaydie\Desktop\SRS - Latest - Copy\SRS\obj\Debug\SRS.AddRoom.resources
+C:\Users\jaydie\Desktop\SRS - Latest - Copy\SRS\obj\Debug\SRS.EditRoom.resources
+C:\Users\jaydie\Desktop\SRS - Latest - Copy\SRS\obj\Debug\SRS.ucRoom.resources
+C:\Users\jaydie\Desktop\SRS - Latest - Copy\SRS\obj\Debug\SRS.frmAddSection.resources
+C:\Users\jaydie\Desktop\SRS - Latest - Copy\SRS\obj\Debug\SRS.frmEditSection.resources
+C:\Users\jaydie\Desktop\SRS - Latest - Copy\SRS\obj\Debug\SRS.frmSection.resources
+C:\Users\jaydie\Desktop\SRS - Latest - Copy\SRS\obj\Debug\SRS.Resources.resources
+C:\Users\jaydie\Desktop\SRS - Latest - Copy\SRS\obj\Debug\SRS.frmAddEnrollment.resources
+C:\Users\jaydie\Desktop\SRS - Latest - Copy\SRS\obj\Debug\SRS.frmAssessment.resources
+C:\Users\jaydie\Desktop\SRS - Latest - Copy\SRS\obj\Debug\SRS.frmEditEnrollment.resources
+C:\Users\jaydie\Desktop\SRS - Latest - Copy\SRS\obj\Debug\SRS.ucEnrollment.resources
+C:\Users\jaydie\Desktop\SRS - Latest - Copy\SRS\obj\Debug\SRS.frmGrades.resources
+C:\Users\jaydie\Desktop\SRS - Latest - Copy\SRS\obj\Debug\SRS.frmAddSubject.resources
+C:\Users\jaydie\Desktop\SRS - Latest - Copy\SRS\obj\Debug\SRS.frmEditSubject.resources
+C:\Users\jaydie\Desktop\SRS - Latest - Copy\SRS\obj\Debug\SRS.ucSubject.resources
+C:\Users\jaydie\Desktop\SRS - Latest - Copy\SRS\obj\Debug\SRS.frmPrintReport.resources
+C:\Users\jaydie\Desktop\SRS - Latest - Copy\SRS\obj\Debug\SRS.frmAssignSched.resources
+C:\Users\jaydie\Desktop\SRS - Latest - Copy\SRS\obj\Debug\SRS.frmSchedule.resources
+C:\Users\jaydie\Desktop\SRS - Latest - Copy\SRS\obj\Debug\SRS.frmViewSchedule.resources
+C:\Users\jaydie\Desktop\SRS - Latest - Copy\SRS\obj\Debug\SRS.frmSearchTeacher.resources
+C:\Users\jaydie\Desktop\SRS - Latest - Copy\SRS\obj\Debug\SRS.frmTeacherForm.resources
+C:\Users\jaydie\Desktop\SRS - Latest - Copy\SRS\obj\Debug\SRS.frmViewTeacher.resources
+C:\Users\jaydie\Desktop\SRS - Latest - Copy\SRS\obj\Debug\SRS.AddPayment.resources
+C:\Users\jaydie\Desktop\SRS - Latest - Copy\SRS\obj\Debug\SRS.EditPayment.resources
+C:\Users\jaydie\Desktop\SRS - Latest - Copy\SRS\obj\Debug\SRS.frmShowAccounts.resources
+C:\Users\jaydie\Desktop\SRS - Latest - Copy\SRS\obj\Debug\SRS.frmViewAccounts.resources
+C:\Users\jaydie\Desktop\SRS - Latest - Copy\SRS\obj\Debug\SRS.PayAssessment.resources
+C:\Users\jaydie\Desktop\SRS - Latest - Copy\SRS\obj\Debug\SRS.frmPayment.resources
+C:\Users\jaydie\Desktop\SRS - Latest - Copy\SRS\obj\Debug\SRS.frmSearchStudent.resources
+C:\Users\jaydie\Desktop\SRS - Latest - Copy\SRS\obj\Debug\SRS.frmEditStudent.resources
+C:\Users\jaydie\Desktop\SRS - Latest - Copy\SRS\obj\Debug\SRS.ucReports.resources
+C:\Users\jaydie\Desktop\SRS - Latest - Copy\SRS\obj\Debug\SRS.frmFirstTime.resources
+C:\Users\jaydie\Desktop\SRS - Latest - Copy\SRS\obj\Debug\SRS.ucConnection.resources
+C:\Users\jaydie\Desktop\SRS - Latest - Copy\SRS\obj\Debug\SRS.frmHome.resources
+C:\Users\jaydie\Desktop\SRS - Latest - Copy\SRS\obj\Debug\SRS.ucLogin.resources
+C:\Users\jaydie\Desktop\SRS - Latest - Copy\SRS\obj\Debug\SRS.ucHome.resources
+C:\Users\jaydie\Desktop\SRS - Latest - Copy\SRS\obj\Debug\SRS.frmError.resources
+C:\Users\jaydie\Desktop\SRS - Latest - Copy\SRS\obj\Debug\SRS.frmInfo.resources
+C:\Users\jaydie\Desktop\SRS - Latest - Copy\SRS\obj\Debug\SRS.frmMsg.resources
+C:\Users\jaydie\Desktop\SRS - Latest - Copy\SRS\obj\Debug\SRS.frmQuestion.resources
+C:\Users\jaydie\Desktop\SRS - Latest - Copy\SRS\obj\Debug\SRS.frmWarning.resources
+C:\Users\jaydie\Desktop\SRS - Latest - Copy\SRS\obj\Debug\SRS.frmBrowseLocal.resources
+C:\Users\jaydie\Desktop\SRS - Latest - Copy\SRS\obj\Debug\SRS.frmAddUnivFee.resources
+C:\Users\jaydie\Desktop\SRS - Latest - Copy\SRS\obj\Debug\SRS.frmBrowseUniv.resources
+C:\Users\jaydie\Desktop\SRS - Latest - Copy\SRS\obj\Debug\SRS.frmCopyFees.resources
+C:\Users\jaydie\Desktop\SRS - Latest - Copy\SRS\obj\Debug\SRS.frmEditLocalFee.resources
+C:\Users\jaydie\Desktop\SRS - Latest - Copy\SRS\obj\Debug\SRS.frmEditUnivFee.resources
+C:\Users\jaydie\Desktop\SRS - Latest - Copy\SRS\obj\Debug\SRS.frmManageFees.resources
+C:\Users\jaydie\Desktop\SRS - Latest - Copy\SRS\obj\Debug\SRS.ucManageFees.resources
+C:\Users\jaydie\Desktop\SRS - Latest - Copy\SRS\obj\Debug\SRS.frmAddGradeLevel.resources
+C:\Users\jaydie\Desktop\SRS - Latest - Copy\SRS\obj\Debug\SRS.frmEditGradeLevel.resources
+C:\Users\jaydie\Desktop\SRS - Latest - Copy\SRS\obj\Debug\SRS.ucGradeLevel.resources
+C:\Users\jaydie\Desktop\SRS - Latest - Copy\SRS\obj\Debug\SRS.frmOpenClose.resources
+C:\Users\jaydie\Desktop\SRS - Latest - Copy\SRS\obj\Debug\SRS.frmPassword.resources
+C:\Users\jaydie\Desktop\SRS - Latest - Copy\SRS\obj\Debug\SRS.frmAddStudent.resources
+C:\Users\jaydie\Desktop\SRS - Latest - Copy\SRS\obj\Debug\SRS.frmAddLocalFee.resources
+C:\Users\jaydie\Desktop\SRS - Latest - Copy\SRS\obj\Debug\SRS.ucBase.resources
+C:\Users\jaydie\Desktop\SRS - Latest - Copy\SRS\obj\Debug\SRS.frmAddSchoolYear.resources
+C:\Users\jaydie\Desktop\SRS - Latest - Copy\SRS\obj\Debug\SRS.frmEditSchoolYear.resources
+C:\Users\jaydie\Desktop\SRS - Latest - Copy\SRS\obj\Debug\SRS.frmManageStud.resources
+C:\Users\jaydie\Desktop\SRS - Latest - Copy\SRS\obj\Debug\SRS.frmPhoto.resources
+C:\Users\jaydie\Desktop\SRS - Latest - Copy\SRS\obj\Debug\SRS.ucSchoolYear.resources
+C:\Users\jaydie\Desktop\SRS - Latest - Copy\SRS\obj\Debug\SRS.frmAccount.resources
+C:\Users\jaydie\Desktop\SRS - Latest - Copy\SRS\obj\Debug\SRS.frmAddUser.resources
+C:\Users\jaydie\Desktop\SRS - Latest - Copy\SRS\obj\Debug\SRS.frmEditUser.resources
+C:\Users\jaydie\Desktop\SRS - Latest - Copy\SRS\obj\Debug\SRS.ucAccount.resources
+C:\Users\jaydie\Desktop\SRS - Latest - Copy\SRS\obj\Debug\SRS.vbproj.GenerateResource.Cache
+C:\Users\jaydie\Desktop\SRS - Latest - Copy\SRS\bin\Debug\SRS.exe.manifest
+C:\Users\jaydie\Desktop\SRS - Latest - Copy\SRS\bin\Debug\SRS.application
+C:\Users\jaydie\Desktop\SRS - Latest - Copy\SRS\bin\Debug\SRS.exe
+C:\Users\jaydie\Desktop\SRS - Latest - Copy\SRS\bin\Debug\SRS.pdb
+C:\Users\jaydie\Desktop\SRS - Latest - Copy\SRS\bin\Debug\SRS.xml
+C:\Users\jaydie\Desktop\SRS - Latest - Copy\SRS\obj\Debug\SRS.exe.manifest
+C:\Users\jaydie\Desktop\SRS - Latest - Copy\SRS\obj\Debug\SRS.application
+C:\Users\jaydie\Desktop\SRS - OJT\SRS\bin\Debug\SRS.exe.config
+C:\Users\jaydie\Desktop\SRS - OJT\SRS\obj\Debug\SRS.exe
+C:\Users\jaydie\Desktop\SRS - OJT\SRS\obj\Debug\SRS.xml
+C:\Users\jaydie\Desktop\SRS - OJT\SRS\obj\Debug\SRS.pdb
+C:\Users\jaydie\Desktop\SRS - OJT\SRS\bin\Debug\SRS.exe.manifest
+C:\Users\jaydie\Desktop\SRS - OJT\SRS\bin\Debug\SRS.application
+C:\Users\jaydie\Desktop\SRS - OJT\SRS\bin\Debug\SRS.exe
+C:\Users\jaydie\Desktop\SRS - OJT\SRS\bin\Debug\SRS.pdb
+C:\Users\jaydie\Desktop\SRS - OJT\SRS\bin\Debug\SRS.xml
+C:\Users\jaydie\Desktop\SRS - OJT\SRS\obj\Debug\SRS.vbprojResolveAssemblyReference.cache
+C:\Users\jaydie\Desktop\SRS - OJT\SRS\obj\Debug\SRS.frmGradeRankings.resources
+C:\Users\jaydie\Desktop\SRS - OJT\SRS\obj\Debug\SRS.AddRoom.resources
+C:\Users\jaydie\Desktop\SRS - OJT\SRS\obj\Debug\SRS.EditRoom.resources
+C:\Users\jaydie\Desktop\SRS - OJT\SRS\obj\Debug\SRS.ucRoom.resources
+C:\Users\jaydie\Desktop\SRS - OJT\SRS\obj\Debug\SRS.frmAddSection.resources
+C:\Users\jaydie\Desktop\SRS - OJT\SRS\obj\Debug\SRS.frmEditSection.resources
+C:\Users\jaydie\Desktop\SRS - OJT\SRS\obj\Debug\SRS.frmSection.resources
+C:\Users\jaydie\Desktop\SRS - OJT\SRS\obj\Debug\SRS.Resources.resources
+C:\Users\jaydie\Desktop\SRS - OJT\SRS\obj\Debug\SRS.frmAddEnrollment.resources
+C:\Users\jaydie\Desktop\SRS - OJT\SRS\obj\Debug\SRS.frmAssessment.resources
+C:\Users\jaydie\Desktop\SRS - OJT\SRS\obj\Debug\SRS.frmEditEnrollment.resources
+C:\Users\jaydie\Desktop\SRS - OJT\SRS\obj\Debug\SRS.ucEnrollment.resources
+C:\Users\jaydie\Desktop\SRS - OJT\SRS\obj\Debug\SRS.frmGrades.resources
+C:\Users\jaydie\Desktop\SRS - OJT\SRS\obj\Debug\SRS.frmAddSubject.resources
+C:\Users\jaydie\Desktop\SRS - OJT\SRS\obj\Debug\SRS.frmEditSubject.resources
+C:\Users\jaydie\Desktop\SRS - OJT\SRS\obj\Debug\SRS.ucSubject.resources
+C:\Users\jaydie\Desktop\SRS - OJT\SRS\obj\Debug\SRS.frmPrintReport.resources
+C:\Users\jaydie\Desktop\SRS - OJT\SRS\obj\Debug\SRS.frmAssignSched.resources
+C:\Users\jaydie\Desktop\SRS - OJT\SRS\obj\Debug\SRS.frmSchedule.resources
+C:\Users\jaydie\Desktop\SRS - OJT\SRS\obj\Debug\SRS.frmViewSchedule.resources
+C:\Users\jaydie\Desktop\SRS - OJT\SRS\obj\Debug\SRS.frmSearchTeacher.resources
+C:\Users\jaydie\Desktop\SRS - OJT\SRS\obj\Debug\SRS.frmTeacherForm.resources
+C:\Users\jaydie\Desktop\SRS - OJT\SRS\obj\Debug\SRS.frmViewTeacher.resources
+C:\Users\jaydie\Desktop\SRS - OJT\SRS\obj\Debug\SRS.AddPayment.resources
+C:\Users\jaydie\Desktop\SRS - OJT\SRS\obj\Debug\SRS.EditPayment.resources
+C:\Users\jaydie\Desktop\SRS - OJT\SRS\obj\Debug\SRS.frmShowAccounts.resources
+C:\Users\jaydie\Desktop\SRS - OJT\SRS\obj\Debug\SRS.frmViewAccounts.resources
+C:\Users\jaydie\Desktop\SRS - OJT\SRS\obj\Debug\SRS.PayAssessment.resources
+C:\Users\jaydie\Desktop\SRS - OJT\SRS\obj\Debug\SRS.frmPayment.resources
+C:\Users\jaydie\Desktop\SRS - OJT\SRS\obj\Debug\SRS.frmSearchStudent.resources
+C:\Users\jaydie\Desktop\SRS - OJT\SRS\obj\Debug\SRS.frmEditStudent.resources
+C:\Users\jaydie\Desktop\SRS - OJT\SRS\obj\Debug\SRS.ucReports.resources
+C:\Users\jaydie\Desktop\SRS - OJT\SRS\obj\Debug\SRS.frmFirstTime.resources
+C:\Users\jaydie\Desktop\SRS - OJT\SRS\obj\Debug\SRS.ucConnection.resources
+C:\Users\jaydie\Desktop\SRS - OJT\SRS\obj\Debug\SRS.frmHome.resources
+C:\Users\jaydie\Desktop\SRS - OJT\SRS\obj\Debug\SRS.ucLogin.resources
+C:\Users\jaydie\Desktop\SRS - OJT\SRS\obj\Debug\SRS.ucHome.resources
+C:\Users\jaydie\Desktop\SRS - OJT\SRS\obj\Debug\SRS.frmError.resources
+C:\Users\jaydie\Desktop\SRS - OJT\SRS\obj\Debug\SRS.frmInfo.resources
+C:\Users\jaydie\Desktop\SRS - OJT\SRS\obj\Debug\SRS.frmMsg.resources
+C:\Users\jaydie\Desktop\SRS - OJT\SRS\obj\Debug\SRS.frmQuestion.resources
+C:\Users\jaydie\Desktop\SRS - OJT\SRS\obj\Debug\SRS.frmWarning.resources
+C:\Users\jaydie\Desktop\SRS - OJT\SRS\obj\Debug\SRS.frmBrowseLocal.resources
+C:\Users\jaydie\Desktop\SRS - OJT\SRS\obj\Debug\SRS.frmAddUnivFee.resources
+C:\Users\jaydie\Desktop\SRS - OJT\SRS\obj\Debug\SRS.frmBrowseUniv.resources
+C:\Users\jaydie\Desktop\SRS - OJT\SRS\obj\Debug\SRS.frmCopyFees.resources
+C:\Users\jaydie\Desktop\SRS - OJT\SRS\obj\Debug\SRS.frmEditLocalFee.resources
+C:\Users\jaydie\Desktop\SRS - OJT\SRS\obj\Debug\SRS.frmEditUnivFee.resources
+C:\Users\jaydie\Desktop\SRS - OJT\SRS\obj\Debug\SRS.frmManageFees.resources
+C:\Users\jaydie\Desktop\SRS - OJT\SRS\obj\Debug\SRS.ucManageFees.resources
+C:\Users\jaydie\Desktop\SRS - OJT\SRS\obj\Debug\SRS.frmAddGradeLevel.resources
+C:\Users\jaydie\Desktop\SRS - OJT\SRS\obj\Debug\SRS.frmEditGradeLevel.resources
+C:\Users\jaydie\Desktop\SRS - OJT\SRS\obj\Debug\SRS.ucGradeLevel.resources
+C:\Users\jaydie\Desktop\SRS - OJT\SRS\obj\Debug\SRS.frmOpenClose.resources
+C:\Users\jaydie\Desktop\SRS - OJT\SRS\obj\Debug\SRS.frmPassword.resources
+C:\Users\jaydie\Desktop\SRS - OJT\SRS\obj\Debug\SRS.frmAddStudent.resources
+C:\Users\jaydie\Desktop\SRS - OJT\SRS\obj\Debug\SRS.frmAddLocalFee.resources
+C:\Users\jaydie\Desktop\SRS - OJT\SRS\obj\Debug\SRS.ucBase.resources
+C:\Users\jaydie\Desktop\SRS - OJT\SRS\obj\Debug\SRS.frmAddSchoolYear.resources
+C:\Users\jaydie\Desktop\SRS - OJT\SRS\obj\Debug\SRS.frmEditSchoolYear.resources
+C:\Users\jaydie\Desktop\SRS - OJT\SRS\obj\Debug\SRS.frmManageStud.resources
+C:\Users\jaydie\Desktop\SRS - OJT\SRS\obj\Debug\SRS.frmPhoto.resources
+C:\Users\jaydie\Desktop\SRS - OJT\SRS\obj\Debug\SRS.ucSchoolYear.resources
+C:\Users\jaydie\Desktop\SRS - OJT\SRS\obj\Debug\SRS.frmAccount.resources
+C:\Users\jaydie\Desktop\SRS - OJT\SRS\obj\Debug\SRS.frmAddUser.resources
+C:\Users\jaydie\Desktop\SRS - OJT\SRS\obj\Debug\SRS.frmEditUser.resources
+C:\Users\jaydie\Desktop\SRS - OJT\SRS\obj\Debug\SRS.ucAccount.resources
+C:\Users\jaydie\Desktop\SRS - OJT\SRS\obj\Debug\SRS.vbproj.GenerateResource.Cache
+C:\Users\jaydie\Desktop\SRS - OJT\SRS\obj\Debug\SRS.exe.manifest
+C:\Users\jaydie\Desktop\SRS - OJT\SRS\obj\Debug\SRS.application
+C:\Users\Smartnote\Desktop\SRS - OJT\SRS\bin\Debug\SRS.exe.config
+C:\Users\Smartnote\Desktop\SRS - OJT\SRS\obj\Debug\SRS.exe
+C:\Users\Smartnote\Desktop\SRS - OJT\SRS\obj\Debug\SRS.xml
+C:\Users\Smartnote\Desktop\SRS - OJT\SRS\obj\Debug\SRS.pdb
+C:\Users\Smartnote\Desktop\SRS - OJT\SRS\bin\Debug\SRS.exe
+C:\Users\Smartnote\Desktop\SRS - OJT\SRS\bin\Debug\SRS.pdb
+C:\Users\Smartnote\Desktop\SRS - OJT\SRS\bin\Debug\SRS.xml
+C:\Users\Smartnote\Desktop\SRS - OJT\SRS\obj\Debug\SRS.vbprojResolveAssemblyReference.cache
+C:\Users\Smartnote\Desktop\SRS - OJT\SRS\obj\Debug\SRS.frmGradeRankings.resources
+C:\Users\Smartnote\Desktop\SRS - OJT\SRS\obj\Debug\SRS.AddRoom.resources
+C:\Users\Smartnote\Desktop\SRS - OJT\SRS\obj\Debug\SRS.EditRoom.resources
+C:\Users\Smartnote\Desktop\SRS - OJT\SRS\obj\Debug\SRS.ucRoom.resources
+C:\Users\Smartnote\Desktop\SRS - OJT\SRS\obj\Debug\SRS.frmAddSection.resources
+C:\Users\Smartnote\Desktop\SRS - OJT\SRS\obj\Debug\SRS.frmEditSection.resources
+C:\Users\Smartnote\Desktop\SRS - OJT\SRS\obj\Debug\SRS.frmSection.resources
+C:\Users\Smartnote\Desktop\SRS - OJT\SRS\obj\Debug\SRS.Resources.resources
+C:\Users\Smartnote\Desktop\SRS - OJT\SRS\obj\Debug\SRS.frmAddEnrollment.resources
+C:\Users\Smartnote\Desktop\SRS - OJT\SRS\obj\Debug\SRS.frmAssessment.resources
+C:\Users\Smartnote\Desktop\SRS - OJT\SRS\obj\Debug\SRS.frmEditEnrollment.resources
+C:\Users\Smartnote\Desktop\SRS - OJT\SRS\obj\Debug\SRS.ucEnrollment.resources
+C:\Users\Smartnote\Desktop\SRS - OJT\SRS\obj\Debug\SRS.frmGrades.resources
+C:\Users\Smartnote\Desktop\SRS - OJT\SRS\obj\Debug\SRS.frmAddSubject.resources
+C:\Users\Smartnote\Desktop\SRS - OJT\SRS\obj\Debug\SRS.frmEditSubject.resources
+C:\Users\Smartnote\Desktop\SRS - OJT\SRS\obj\Debug\SRS.ucSubject.resources
+C:\Users\Smartnote\Desktop\SRS - OJT\SRS\obj\Debug\SRS.frmPrintReport.resources
+C:\Users\Smartnote\Desktop\SRS - OJT\SRS\obj\Debug\SRS.frmAssignSched.resources
+C:\Users\Smartnote\Desktop\SRS - OJT\SRS\obj\Debug\SRS.frmSchedule.resources
+C:\Users\Smartnote\Desktop\SRS - OJT\SRS\obj\Debug\SRS.frmViewSchedule.resources
+C:\Users\Smartnote\Desktop\SRS - OJT\SRS\obj\Debug\SRS.frmSearchTeacher.resources
+C:\Users\Smartnote\Desktop\SRS - OJT\SRS\obj\Debug\SRS.frmTeacherForm.resources
+C:\Users\Smartnote\Desktop\SRS - OJT\SRS\obj\Debug\SRS.frmViewTeacher.resources
+C:\Users\Smartnote\Desktop\SRS - OJT\SRS\obj\Debug\SRS.AddPayment.resources
+C:\Users\Smartnote\Desktop\SRS - OJT\SRS\obj\Debug\SRS.EditPayment.resources
+C:\Users\Smartnote\Desktop\SRS - OJT\SRS\obj\Debug\SRS.frmShowAccounts.resources
+C:\Users\Smartnote\Desktop\SRS - OJT\SRS\obj\Debug\SRS.frmViewAccounts.resources
+C:\Users\Smartnote\Desktop\SRS - OJT\SRS\obj\Debug\SRS.frmPayment.resources
+C:\Users\Smartnote\Desktop\SRS - OJT\SRS\obj\Debug\SRS.frmSearchStudent.resources
+C:\Users\Smartnote\Desktop\SRS - OJT\SRS\obj\Debug\SRS.frmEditStudent.resources
+C:\Users\Smartnote\Desktop\SRS - OJT\SRS\obj\Debug\SRS.ucReports.resources
+C:\Users\Smartnote\Desktop\SRS - OJT\SRS\obj\Debug\SRS.frmFirstTime.resources
+C:\Users\Smartnote\Desktop\SRS - OJT\SRS\obj\Debug\SRS.ucConnection.resources
+C:\Users\Smartnote\Desktop\SRS - OJT\SRS\obj\Debug\SRS.frmHome.resources
+C:\Users\Smartnote\Desktop\SRS - OJT\SRS\obj\Debug\SRS.ucLogin.resources
+C:\Users\Smartnote\Desktop\SRS - OJT\SRS\obj\Debug\SRS.ucHome.resources
+C:\Users\Smartnote\Desktop\SRS - OJT\SRS\obj\Debug\SRS.frmError.resources
+C:\Users\Smartnote\Desktop\SRS - OJT\SRS\obj\Debug\SRS.frmInfo.resources
+C:\Users\Smartnote\Desktop\SRS - OJT\SRS\obj\Debug\SRS.frmMsg.resources
+C:\Users\Smartnote\Desktop\SRS - OJT\SRS\obj\Debug\SRS.frmQuestion.resources
+C:\Users\Smartnote\Desktop\SRS - OJT\SRS\obj\Debug\SRS.frmWarning.resources
+C:\Users\Smartnote\Desktop\SRS - OJT\SRS\obj\Debug\SRS.frmBrowseLocal.resources
+C:\Users\Smartnote\Desktop\SRS - OJT\SRS\obj\Debug\SRS.frmAddUnivFee.resources
+C:\Users\Smartnote\Desktop\SRS - OJT\SRS\obj\Debug\SRS.frmBrowseUniv.resources
+C:\Users\Smartnote\Desktop\SRS - OJT\SRS\obj\Debug\SRS.frmCopyFees.resources
+C:\Users\Smartnote\Desktop\SRS - OJT\SRS\obj\Debug\SRS.frmEditLocalFee.resources
+C:\Users\Smartnote\Desktop\SRS - OJT\SRS\obj\Debug\SRS.frmEditUnivFee.resources
+C:\Users\Smartnote\Desktop\SRS - OJT\SRS\obj\Debug\SRS.frmManageFees.resources
+C:\Users\Smartnote\Desktop\SRS - OJT\SRS\obj\Debug\SRS.ucManageFees.resources
+C:\Users\Smartnote\Desktop\SRS - OJT\SRS\obj\Debug\SRS.frmAddGradeLevel.resources
+C:\Users\Smartnote\Desktop\SRS - OJT\SRS\obj\Debug\SRS.frmEditGradeLevel.resources
+C:\Users\Smartnote\Desktop\SRS - OJT\SRS\obj\Debug\SRS.ucGradeLevel.resources
+C:\Users\Smartnote\Desktop\SRS - OJT\SRS\obj\Debug\SRS.frmOpenClose.resources
+C:\Users\Smartnote\Desktop\SRS - OJT\SRS\obj\Debug\SRS.frmPassword.resources
+C:\Users\Smartnote\Desktop\SRS - OJT\SRS\obj\Debug\SRS.frmAddStudent.resources
+C:\Users\Smartnote\Desktop\SRS - OJT\SRS\obj\Debug\SRS.frmAddLocalFee.resources
+C:\Users\Smartnote\Desktop\SRS - OJT\SRS\obj\Debug\SRS.ucBase.resources
+C:\Users\Smartnote\Desktop\SRS - OJT\SRS\obj\Debug\SRS.frmAddSchoolYear.resources
+C:\Users\Smartnote\Desktop\SRS - OJT\SRS\obj\Debug\SRS.frmEditSchoolYear.resources
+C:\Users\Smartnote\Desktop\SRS - OJT\SRS\obj\Debug\SRS.frmManageStud.resources
+C:\Users\Smartnote\Desktop\SRS - OJT\SRS\obj\Debug\SRS.frmPhoto.resources
+C:\Users\Smartnote\Desktop\SRS - OJT\SRS\obj\Debug\SRS.ucSchoolYear.resources
+C:\Users\Smartnote\Desktop\SRS - OJT\SRS\obj\Debug\SRS.frmAccount.resources
+C:\Users\Smartnote\Desktop\SRS - OJT\SRS\obj\Debug\SRS.frmAddUser.resources
+C:\Users\Smartnote\Desktop\SRS - OJT\SRS\obj\Debug\SRS.frmEditUser.resources
+C:\Users\Smartnote\Desktop\SRS - OJT\SRS\obj\Debug\SRS.ucAccount.resources
+C:\Users\Smartnote\Desktop\SRS - OJT\SRS\obj\Debug\SRS.vbproj.GenerateResource.Cache
+C:\Users\Smartnote\Desktop\SRS - OJT\SRS\obj\Debug\SRS.frmPayAccounts.resources
+C:\Users\Smartnote\Desktop\SRS - OJT\SRS\bin\Debug\SRS.exe.manifest
+C:\Users\Smartnote\Desktop\SRS - OJT\SRS\bin\Debug\SRS.application
+C:\Users\Smartnote\Desktop\SRS - OJT\SRS\obj\Debug\SRS.TrustInfo.xml
+C:\Users\Smartnote\Desktop\SRS - OJT\SRS\obj\Debug\SRS.exe.manifest
+C:\Users\Smartnote\Desktop\SRS - OJT\SRS\obj\Debug\SRS.application
+C:\Users\Smartnote\Desktop\NewSRSFile\SRS - OJT\SRS\bin\Debug\SRS.exe.config
+C:\Users\Smartnote\Desktop\NewSRSFile\SRS - OJT\SRS\obj\Debug\SRS.exe
+C:\Users\Smartnote\Desktop\NewSRSFile\SRS - OJT\SRS\obj\Debug\SRS.xml
+C:\Users\Smartnote\Desktop\NewSRSFile\SRS - OJT\SRS\obj\Debug\SRS.pdb
